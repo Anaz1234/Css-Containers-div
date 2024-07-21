@@ -1,0 +1,80 @@
+#head{
+    font-size: 30px;
+   color: rgb(229, 246, 248);
+   background-color: rgb(57, 57, 215);
+   border: 20px dashed white;
+   display: block;
+   padding-left: 40%;
+   padding-top: 9%;
+   padding-bottom: 9%;
+   
+
+}
+img{
+    width: 300px;
+}
+
+#mi{
+    
+    background-color: rgb(72, 72, 234);
+    width: 300px;
+    height: 550px;
+    margin: 20px;
+    display: inline-block;
+    border: 20px dashed rgb(148, 35, 35);
+    border-radius: 20px ;
+    overflow: hidden;
+    text-align: justify;
+    padding: 20px;
+    
+}
+
+#srh{
+    background-color:orange;
+    width: 300px;
+    text-align: justify;
+    margin: 20px;
+    display: inline-block;
+    border: 20px dotted white;
+    border-radius: 20px ;
+    padding: 20px;
+
+}
+#dc{
+    background-color: rgb(54, 111, 234);
+    width: 300px;
+    text-align: justify;
+    margin: 20px;
+    display: inline-block;
+    border: 20px groove white;
+    border-radius: 20px ;
+    padding: 20px;
+
+    
+}
+
+#csk{
+    background-color: yellow;
+    width: 300px;
+    text-align: justify;
+    display: inline-block;
+    border: 20px dashed white;
+    border-radius: 20px ;
+    margin: 20px;
+    padding: 20px;
+    
+    
+}
+
+#kkr{
+    background-color: rgb(210, 34, 93);
+    width: 300px;
+    text-align: justify;
+    margin: 20px;
+    display: inline-block;
+    border: 20px dashed white;
+    border-radius : 20px ;
+    padding: 20px;
+    
+}
+
